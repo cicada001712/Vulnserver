@@ -1,7 +1,7 @@
 # Vulnserver TRUN Command — Stack-Based Buffer Overflow
 
 **Exploit Development Report**
-Prepared by: S — Cybersecurity Engineering Student
+Prepared by: Sharan Shetty — Cybersecurity Engineering Student
 September 2026
 
 ---
